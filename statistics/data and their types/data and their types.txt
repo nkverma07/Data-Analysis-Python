@@ -1,0 +1,17 @@
+#Based On Source
+    1)Primary
+    1)Secondary
+#Based on Organisation
+    1)Row Data
+    1)Classified
+#Based on Values
+    1)Qualitative
+         a)Nominal Data
+         b)Ordinal Data
+    1)Quantitive
+         a)Discrete Data
+         b)Continuous Data
+#Based on Variables
+    1)Univariate Data
+    1)Bivariate Data
+    1)Multivariate data
